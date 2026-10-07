@@ -1,16 +1,44 @@
-## Hi there 👋
+Hey I'm Nate
 
-<!--
-**hiholuvs/hiholuvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer • 🛹 Skateboarder • 🎧 Music Enjoyer
 
-Here are some ideas to get you started:
+Welcome to my little corner of GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer who likes building things, learning new stuff, and spending time on a skateboard when I'm not behind a screen.
+
+🛹 MY SETUP
+🛹 BOARD      → DGK Ceremony
+🎧 MUSIC      → Deftones, Notorious B.I.G
+📍 LOCATION   → Miami FL
+🔥 CURRENTLY  → python
+
+🏁 TRICKS I'M LEARNING
+
+🛹 Ollie
+
+🔥 Kickflip
+
+⚡ Shuvit
+
+
+
+🎧 CURRENT VIBES
+████████████████████  100%
+
+🛹 SKATING
+██████████████████░░  90%
+
+💻 CODING
+████████████████████  100%
+
+🎧 MUSIC
+███████████████████░  95%
+
+☕ CAFFEINE
+████████████████████  100%
+
+🛹 KEEP ROLLING.
+
+Fall. Get back up. Try again.
+
+⭐ Thanks for stopping by!
